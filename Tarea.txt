@@ -1,0 +1,4 @@
+Investigar los 7 comandos 
+mas utilizados en git
+
+¿Que es una rama?
